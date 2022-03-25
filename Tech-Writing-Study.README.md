@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I live in Brazil 
+#### VTEX Tech Writer Course
 
-I like books, beer, cats
+Documentation activity for two WhatsApp features:
 
-and UX Design
+- Broadcast List
+- Groups
